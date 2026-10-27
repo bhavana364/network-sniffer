@@ -1,0 +1,71 @@
+###### SAMPLE OUTPUT EXAMPLE ######
+IP Version:   IPv4 (TTL/Hop Limit: 64)
+Protocol:     UDP
+Source:       10.185.19.51
+Destination:  10.185.19.155
+Ports:        53 -> 53053
+Packet Size:  179 bytes
+Payload Data: No Payload
+============================================================
+Timestamp:    2026-10-22 19:43:54
+IP Version:   IPv6 (TTL/Hop Limit: 254)
+Protocol:     TCP
+Source:       2409:40d0:139d:62fc:2c8e:b88c:2fab:69b4
+Destination:  64:ff9b::4891:236e
+Ports:        58897 -> 443
+Packet Size:  86 bytes
+Payload Data: No Payload
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv4 (TTL/Hop Limit: 64)
+Protocol:     UDP
+Source:       10.185.19.51
+Destination:  10.185.19.155
+Ports:        53 -> 49976
+Packet Size:  267 bytes
+Payload Data: No Payload
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv4 (TTL/Hop Limit: 64)
+Protocol:     UDP
+Source:       10.185.19.51
+Destination:  10.185.19.155
+Ports:        53 -> 54567
+Packet Size:  216 bytes
+Payload Data: No Payload
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv6 (TTL/Hop Limit: 100)
+Protocol:     TCP
+Source:       64:ff9b::1432:c9c9
+Destination:  2409:40d0:139d:62fc:2c8e:b88c:2fab:69b4
+Ports:        443 -> 59386
+Packet Size:  113 bytes
+Payload Data: ...."...O..'..!uJ...faOMVm....N.<z.....
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv6 (TTL/Hop Limit: 60)
+Protocol:     TCP
+Source:       2a04:4e42:fea::223
+Destination:  2409:40d0:139d:62fc:2c8e:b88c:2fab:69b4
+Ports:        443 -> 58896
+Packet Size:  74 bytes
+Payload Data: No Payload
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv6 (TTL/Hop Limit: 60)
+Protocol:     TCP
+Source:       2a04:4e42:fea::223
+Destination:  2409:40d0:139d:62fc:2c8e:b88c:2fab:69b4
+Ports:        443 -> 58896
+Packet Size:  2674 bytes
+Payload Data: ....P...L..j.........6.F2.'..|.R.t.DOWNGRD.../.....
+============================================================
+Timestamp:    2026-10-22 19:43:55
+IP Version:   IPv6 (TTL/Hop Limit: 254)
+Protocol:     TCP
+Source:       2409:40d0:139d:62fc:2c8e:b88c:2fab:69b4
+Destination:  2a04:4e42:fea::223
+Ports:        58896 -> 443
+Packet Size:  74 bytes
+Payload Data: No Payload
